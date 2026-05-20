@@ -14,15 +14,6 @@ Sou um profissional com perfil analítico focado em **Administração de Banco d
 
 ---
 
-### 🚀 Projetos em Destaque (Meu Portfólio)
-
-* 🎬 **[HBO Max Data Infrastructure & Analytics](https://github.com/murillo-ferreira/projeto-database-hbo)**
-  * **O que é:** Arquitetura e modelagem completa de um banco de dados relacional para uma plataforma de streaming.
-  * **O que apliquei:** Criação de tabelas com chaves estrangeiras e restrições rígidas de integridade, massas de dados reais vindas do Kaggle e inteligência de negócio através de queries complexas (Agrupamentos, JOINs cirúrgicos e tratamento de dados semiestruturados).
-  * **Tecnologias:** SQL Server, T-SQL, DBeaver, Git Flow e Conventional Commits.
-
----
-
 ### 📫 Como me encontrar:
 
 * **LinkedIn:** [linkedin.com/in/murillodsferreira](https://www.linkedin.com/in/murillodsferreira)
