@@ -1,4 +1,4 @@
-# Olá, meu nome é [Murillo] 👋
+# Olá, meu nome é Murillo 👋
 
 Sou focado em **Administração de Banco de Dados (DBA)** e **Desenvolvimento SQL**, especializado em garantir a integridade, modelagem eficiente e performance de bancos de dados relacionais.
 
